@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://app.daily.dev/alexmk92"><img src="https://api.daily.dev/devcards/adc159964f6047fd85aac25831b7963a.png?r=mhe" width="400" alt="Alexander Sims's Dev Card"/></a>
+<div style="width: 100%">
+<a style="margin: 0 auto;" href="https://app.daily.dev/alexmk92"><img src="https://api.daily.dev/devcards/adc159964f6047fd85aac25831b7963a.png?r=mhe" width="400" alt="Alexander Sims's Dev Card"/></a>
+</div>
